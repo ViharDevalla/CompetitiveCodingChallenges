@@ -1,2 +1,3 @@
 # CompetitiveCodingChallenges
- Solutions to questions from BinarySearch and Leetcode
+
+Solutions to questions from BinarySearch and Leetcode
